@@ -53,11 +53,6 @@ License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
 Source: https://pxhere.com/en/photo/869377
 
-* Image for theme screenshot post three, Copyright Pxhere
-License: CC0 1.0 Universal (CC0 1.0)
-License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/1437855
-
 * Image for theme screenshot post four, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
